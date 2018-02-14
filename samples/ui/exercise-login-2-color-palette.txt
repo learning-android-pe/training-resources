@@ -1,0 +1,25 @@
+
+Deep Sky Blue
+
+#1FD2FF
+rgb(31, 210, 255)
+Violet Red
+
+#FA327E
+rgb(250, 50, 126)
+Alice Blue
+
+#F9FCFF
+rgb(249, 252, 255)
+Pattens Blue
+
+#D2E3F4
+rgb(210, 227, 244)
+Cornflower Blue
+
+#5E7DDD
+rgb(94, 125, 221)
+Brilliant Rose
+
+#F7699D
+rgb(247, 105, 157)

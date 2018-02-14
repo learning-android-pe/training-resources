@@ -1,0 +1,25 @@
+
+Black Russian
+
+#212330
+rgb(33, 35, 48)
+Medium Turquoise
+
+#62CACE
+rgb(98, 202, 206)
+Malibu
+
+#5FB0EF
+rgb(95, 176, 239)
+Medium Aquamarine
+
+#65DCAF
+rgb(101, 220, 175)
+Waikawa Grey
+
+#6B789E
+rgb(107, 120, 158)
+Solitude
+
+#ECF0FA
+rgb(236, 240, 250)

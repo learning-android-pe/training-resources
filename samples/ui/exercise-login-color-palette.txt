@@ -1,0 +1,29 @@
+
+Ghost White
+
+#FBFBFC
+rgb(251, 251, 252)
+
+
+Orient
+
+#1B4B6F
+rgb(27, 75, 111)
+
+
+Astral
+
+#2A7A92
+rgb(42, 122, 146
+
+
+Pattens Blue
+
+#D9DFE5
+rgb(217, 223, 229)
+
+
+Bermuda Grey
+
+#6995A9
+rgb(105, 149, 169)
